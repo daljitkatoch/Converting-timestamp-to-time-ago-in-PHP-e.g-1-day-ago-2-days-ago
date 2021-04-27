@@ -2,11 +2,11 @@
 
 **Use example :**
 
-echo time_elapsed_string('2013-05-01 00:22:35');
+echo time_elapsed_string('2015-05-01 00:22:35');
 
-echo time_elapsed_string('@1367367755'); # timestamp input
+echo time_elapsed_string('@1467367755'); # timestamp input
 
-echo time_elapsed_string('2013-05-01 00:22:35', true);
+echo time_elapsed_string('2015-05-01 00:22:35', true);
 
 Input can be any supported date and time format.
 
