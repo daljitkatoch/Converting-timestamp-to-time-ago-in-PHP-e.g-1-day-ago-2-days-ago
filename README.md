@@ -12,8 +12,8 @@ Input can be any supported date and time format.
 
 **Output :**
 
-4 months ago
+5 years ago
 
-4 months ago
+4 years ago
 
-4 months, 2 weeks, 3 days, 1 hour, 49 minutes, 15 seconds ago
+5 years, 11 months, 3 weeks, 5 days, 5 hours, 48 minutes, 18 seconds ago
